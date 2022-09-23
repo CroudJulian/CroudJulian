@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy el Ing.Julian Sarmiento</h1>
-<h3 align="center">Ing. Sistemas BD and dev Jun, con intención de seguir aprendiendo y aportando.</h3>
+<h3 align="center">Ing. Sistemas BD, dev Jun, apasionado por seguir aprendiendo y aportando en las compañias y startup.</h3>
 
 - 🔭 I’m currently working on **Rappi**
 
